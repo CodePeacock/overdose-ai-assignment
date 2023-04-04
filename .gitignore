@@ -7,11 +7,12 @@ __pycache__/
 *.so
 
 #Datasets
-*.csv
-*.json
-*.txt
-*.xlsx
-*.xlsb
+.csv
+.json
+.txt
+.xlsx
+.xlsb
+.zip
 
 # Distribution / packaging
 .Python
